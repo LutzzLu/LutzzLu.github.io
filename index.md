@@ -6,7 +6,7 @@ layout: default
 <head>
   <!-- <link rel="icon" href="/favicon.ico" type="image/x-icon" /> -->
   <title>Yunrui Lu</title>
-  <link rel="icon" href="/images/icon.png" />
+  <link rel="icon" href="images/icon.png" />
   <meta name="description" content="I'm a Bioengineering PhD student at Caltech." />
 </head>
 
