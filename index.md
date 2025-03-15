@@ -1,10 +1,12 @@
-<!-- ---
+---
 layout: default
---- -->
+---
 
 <!-- # **Yunrui Lu** -->
 
 ## About Me
+{: style="border-top: none; border-bottom: none; box-shadow: none; margin-top: 0;" }
+
 <div style="float: right; width: 220px; margin-left: 20px;">
   <img src="images/website.jpg" alt="Profile Picture" style="width: 100%;" />
 </div>
