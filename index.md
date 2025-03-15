@@ -64,6 +64,4 @@ I spend a lot of time playing basketball, swim, randomly work out, travel, eat a
 ---
 
 <!-- ClustrMaps widget code -->
-<div style="float: right; margin-left: 20px; margin-bottom: 10px;">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=tXchQijqioKhdSEtWKq8i-6P_4Vk7w_hnfwHKSsNGSY'></script>
-</div>
