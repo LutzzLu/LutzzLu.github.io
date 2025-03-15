@@ -61,6 +61,9 @@ I'm always happy to connect and collaborate with researchers who are interested 
 ## Out of lab
 I spend a lot of time playing basketball, swim, randomly work out, travel, eat a lot, drink some and sleep a lot.
 
+---
 
 <!-- ClustrMaps widget code -->
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=tXchQijqioKhdSEtWKq8i-6P_4Vk7w_hnfwHKSsNGSY&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<div style="float: right; margin-left: 20px; margin-bottom: 10px;">
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=tXchQijqioKhdSEtWKq8i-6P_4Vk7w_hnfwHKSsNGSY'></script>
+</div>
