@@ -13,6 +13,7 @@ Hi! I am a PhD student at Caltech. Use this section to write a brief introductio
 about yourself, your background, and any key information you want people to know.
 Hi! I am a PhD student at Caltech, .  
 Use this section to write a brief introduction about yourself, your background, and any key information you want people to know.
+<div style="clear: both;"></div>
 
 <!-- --- -->
 
