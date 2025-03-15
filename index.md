@@ -2,11 +2,15 @@
 layout: default
 ---
 
-# **Yunrui Lu**
-
-<img src="images/website.jpg" alt="Profile Picture" width="250" />
+<!-- # **Yunrui Lu** -->
 
 ## About Me
+<div style="float: right; width: 220px; margin-left: 20px;">
+  <img src="images/website.jpg" alt="Profile Picture" style="width: 100%;" />
+</div>
+
+Hi! I am a PhD student at Caltech. Use this section to write a brief introduction 
+about yourself, your background, and any key information you want people to know.
 Hi! I am a PhD student at Caltech, .  
 Use this section to write a brief introduction about yourself, your background, and any key information you want people to know.
 
