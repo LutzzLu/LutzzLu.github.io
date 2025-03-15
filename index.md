@@ -19,7 +19,7 @@ layout: default
   <img src="images/website.jpg" alt="Profile Picture" style="width: 100%;" />
 </div>
 
-Hi! My name is Yunrui Lu. I'm a Bioengineering PhD student at Caltech. I'm interested in developing ML and statistical methods, using single cell and spatial transcriptomics to explore tumor heterogeneity and cell cell communication in tumor immune microenvironment.
+Hi! My name is Yunrui Lu. I'm a Bioengineering PhD student at Caltech. I'm interested in developing ML and statistical methods, using spatial transcriptomics, single cell and multiomics to explore tumor heterogeneity and cell cell communication in tumor immune microenvironment.
 
 Previously, I worked at Cedars Sinai and Dartmouth Hitchcock Medical Center as research associate. I graduated from Dartmouth College in 2022 with Master degree in Quantitative Biomedical Science, and from Xiamen University, China in 2021 with Bachelor degrees in German Language and Literature and Mathematical Economics.
 
@@ -59,5 +59,5 @@ I'm always happy to connect and collaborate with researchers who are interested 
 <!-- --- -->
 
 ## Out of lab
-I spend a lot of time playing basketball, swim, randomly work out, travel, eat a lot, drink a lot and sleep a lot.
+I spend a lot of time playing basketball, swim, randomly work out, travel, eat a lot, drink some and sleep a lot.
 
