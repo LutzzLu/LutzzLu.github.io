@@ -1,17 +1,17 @@
----
+<!-- ---
 title: "Your Name"
 layout: default
----
+--- -->
 
-# **Your Name Here**
+# **Yunrui Lu**
 
-![Profile Picture](images/profile_placeholder.jpg)
+![Profile Picture](images/website.jpg)
 
 ## About Me
-Hello! My name is **Your Name**. I am a [your role/title/description].  
+Hi! I am a PhD student at Caltech, .  
 Use this section to write a brief introduction about yourself, your background, and any key information you want people to know.
 
----
+<!-- --- -->
 
 ## Publications
 1. **Publication Title 1**  
@@ -36,7 +36,7 @@ Use this section to write a brief introduction about yourself, your background, 
 - [LinkedIn](https://www.linkedin.com/in/your-profile) <!-- Optional additional links -->
 - [Twitter](https://twitter.com/yourhandle) <!-- Optional additional links -->
 
----
+<!-- --- -->
 
 ## Contact
 Feel free to [email me](mailto:your_email@example.com) for any questions, collaborations, or discussions.
