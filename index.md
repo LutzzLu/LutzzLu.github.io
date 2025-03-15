@@ -1,11 +1,10 @@
-<!-- ---
-title: "Your Name"
+---
 layout: default
---- -->
+---
 
 # **Yunrui Lu**
 
-![Profile Picture](images/website.jpg)
+<img src="images/website.jpg" alt="Profile Picture" width="250" />
 
 ## About Me
 Hi! I am a PhD student at Caltech, .  
