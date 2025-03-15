@@ -2,12 +2,13 @@
 layout: default
 ---
 
-<!-- Add a link to your favicon at the very top
+<!-- Add a link to your favicon at the very top -->
 <head>
+  <!-- <link rel="icon" href="/favicon.ico" type="image/x-icon" /> -->
   <title>Yunrui Lu</title>
   <link rel="icon" href="/images/icon.png" type="image/png" />
   <meta name="description" content="I'm a Bioengineering PhD student at Caltech." />
-</head> -->
+</head>
 
 <!-- # **Yunrui Lu** -->
 
