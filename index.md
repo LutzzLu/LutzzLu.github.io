@@ -16,7 +16,7 @@ Hi! My name is Yunrui Lu. I'm a Bioengineering PhD student at Caltech. Previousl
 I'm interested in developing ML methods using single cell and spatial transcriptomics to explore tumor heterogeneity and cell cell communication in tumor immune microenvironment.
 
 <div align="center">
-  yunruilu[at]caltech.edu / [Google Scholar](https://scholar.google.com/citations?user=EOIS4IgAAAAJ&hl=en) / [Github](https://github.com/LutzzLu)
+  yunruilu[at]caltech.edu / <a href="https://scholar.google.com/citations?user=EOIS4IgAAAAJ&hl=en">Google Scholar</a> / <a href="https://github.com/LutzzLu">Github</a>
 </div>
 
 <div style="clear: both;"></div>
