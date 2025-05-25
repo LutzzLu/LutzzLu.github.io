@@ -3,13 +3,7 @@ layout: default
 ---
 
 <!-- Add a link to your favicon at the very top -->
-<head>
-  <!-- <link rel="icon" href="/favicon.ico" type="image/x-icon" /> -->
-  <title>Yunrui Lu</title>
-  <link rel="icon" href="/images/icon.png" type="image/png" />
-  <meta name="description" content="I'm a Bioengineering PhD student at Caltech." />
-  <meta name="google-site-verification" content="u5syEl1XILoAdrruOgX08T3VDeSLEQeH_YyZqRL3Zsc" />
-</head>
+
 
 <!-- # **Yunrui Lu** -->
 
