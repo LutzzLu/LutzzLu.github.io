@@ -21,7 +21,7 @@ Previously, I worked at Cedars Sinai and Dartmouth Hitchcock Medical Center as r
 I'm always happy to connect and collaborate with researchers who are interested in computational biology, deep learning, spatial transcriptomics, single cell and digital pathology. I have mentored master students and undergrads. Feel free to reach out and would love to chat about potential opportunities.
 
 <div align="center">
-  yunruilu[at]caltech.edu / <a href="https://scholar.google.com/citations?user=EOIS4IgAAAAJ&hl=en">Google Scholar</a> / <a href="https://github.com/LutzzLu">Github</a>
+  yunruilu[at]caltech[dot]edu / <a href="https://scholar.google.com/citations?user=EOIS4IgAAAAJ&hl=en">Google Scholar</a> / <a href="https://github.com/LutzzLu">Github</a>
 </div>
 
 <div style="clear: both;"></div>
