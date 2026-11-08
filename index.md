@@ -34,10 +34,10 @@ I'm always happy to connect and collaborate with researchers who are interested 
     **bioRxiv**, 2026
 
 - **Spatial second-order features predict glioma malignant transformation**\
-    _Michal Polonsky, Jonathan J Fox, **Yunrui Lu**, Sheel Shah, Noa Hadas, Jina Yun, Brian A Williams, Barbara J Wold, Richard G Everson, Matt W Thomson, Long Cai_\
+    _Michal Polonsky\*, Jonathan J Fox\*, **Yunrui Lu\***, Sheel Shah\*, Noa Hadas, Jina Yun, Brian A Williams, Barbara J Wold, Richard G Everson, Matt W Thomson, Long Cai_\
     **bioRxiv**, 2026
 
-- **Integration of Elemental Imaging and Spatial Transcriptomic Profiling for Proof-of-Concept Metals-Based Pathway Analysis of Colon Tumor Microenvironment**\
+- **Integrative co-registration of elemental imaging and histopathology for enhanced spatial multimodal analysis of tissue sections through TRACE**\
     _**Yunrui Lu**, Serin Han, Aruesha Srivastava, Neha Shaik, Matthew Chan, Alos Diallo, Naina Kumar, Nishita Paruchuri, Hrishikesh Deosthali, Vismay Ravikumar, Kevin Cornell, Elijah Stommel, Tracy Punshon, Brian Jackson, Fred Kolling IV, Linda Vahdat, Louis Vaickus, Jonathan Marotti, Sunita Ho, Joshua Levy_\
     **Bioinformatics Advances**, 2025
 
@@ -68,5 +68,5 @@ I spend a lot of time playing basketball, swim, randomly work out, travel, eat a
 
 <!-- --- -->
 
-<!-- ClustrMaps widget code -->
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=tXchQijqioKhdSEtWKq8i-6P_4Vk7w_hnfwHKSsNGSY'></script>
+<!-- MapMyVisitors widget code -->
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=4Uq8VLB1X4p1I37R16cLIp6lnO2nID47iiQZlmPGPW0&cl=ffffff&w=300"></script>
