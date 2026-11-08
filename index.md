@@ -69,4 +69,4 @@ I spend a lot of time playing basketball, swim, randomly work out, travel, eat a
 <!-- --- -->
 
 <!-- MapMyVisitors widget code -->
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=4Uq8VLB1X4p1I37R16cLIp6lnO2nID47iiQZlmPGPW0&cl=ffffff&w=300"></script>
+<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=4Uq8VLB1X4p1I37R16cLIp6lnO2nID47iiQZlmPGPW0&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
