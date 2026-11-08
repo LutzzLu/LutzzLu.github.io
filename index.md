@@ -30,19 +30,19 @@ I'm always happy to connect and collaborate with researchers who are interested 
 
 ## Selected Publications
 - **A Generative Virtual Tissue Model Enables Computational Design of Therapeutic Perturbation Strategies**\
-    _**Yunrui Lu**, Willis Zhang, Yu-Jen Chen, Jiayi Yin, Lydia Chen, Kevin Fleisher, James Gornet, Rex Liu, Zitong Jerry Wang, Yan Poon, Yuning You, Matt Thomson_\
+    _**Yunrui Lu**, Willis Zhang, Yu-Jen Chen, Jiayi Yin, Lydia Chen, Kevin Fleisher, James Gornet, Rex Liu, Zitong Jerry Wang, Yan Poon, Yuning You#, Matt Thomson#_\
     **bioRxiv**, 2026
 
 - **Spatial second-order features predict glioma malignant transformation**\
-    _Michal Polonsky\*, Jonathan J Fox\*, **Yunrui Lu\***, Sheel Shah\*, Noa Hadas, Jina Yun, Brian A Williams, Barbara J Wold, Richard G Everson, Matt W Thomson, Long Cai_\
+    _Michal Polonsky\*, Jonathan J Fox\*, **Yunrui Lu\***, Sheel Shah\*, Noa Hadas, Jina Yun, Brian A Williams, Barbara J Wold, Richard G Everson#, Matt W Thomson#, Long Cai#_\
     **bioRxiv**, 2026
 
 - **Integrative co-registration of elemental imaging and histopathology for enhanced spatial multimodal analysis of tissue sections through TRACE**\
-    _**Yunrui Lu**, Serin Han, Aruesha Srivastava, Neha Shaik, Matthew Chan, Alos Diallo, Naina Kumar, Nishita Paruchuri, Hrishikesh Deosthali, Vismay Ravikumar, Kevin Cornell, Elijah Stommel, Tracy Punshon, Brian Jackson, Fred Kolling IV, Linda Vahdat, Louis Vaickus, Jonathan Marotti, Sunita Ho, Joshua Levy_\
+    _**Yunrui Lu**, Serin Han, Aruesha Srivastava, Neha Shaik, Matthew Chan, Alos Diallo, Naina Kumar, Nishita Paruchuri, Hrishikesh Deosthali, Vismay Ravikumar, Kevin Cornell, Elijah Stommel, Tracy Punshon, Brian Jackson, Fred Kolling IV, Linda Vahdat, Louis Vaickus, Jonathan Marotti, Sunita Ho, Joshua Levy#_\
     **Bioinformatics Advances**, 2025
 
 - **An initial game-theoretic assessment of enhanced tissue preparation and imaging protocols for improved deep learning inference of spatial transcriptomics from tissue morphology**  
-   _Michael Y Fatemi\*, **Yunrui Lu\***, Alos B Diallo, Gokul Srinivasan, Zarif L Azher, Brock C Christensen, Lucas A Salas, Gregory J Tsongalis, Scott M Palisoul, Laurent Perreard, Fred W Kolling IV, Louis J Vaickus, Joshua J Levy_\
+   _Michael Y Fatemi\*, **Yunrui Lu\***, Alos B Diallo, Gokul Srinivasan, Zarif L Azher, Brock C Christensen, Lucas A Salas, Gregory J Tsongalis, Scott M Palisoul, Laurent Perreard, Fred W Kolling IV, Louis J Vaickus, Joshua J Levy#_\
    **Briefings in Bioinformatics**, 2024
 
 <!-- Hidden publications: remove this line and the closing line below to show them again
@@ -59,7 +59,7 @@ I'm always happy to connect and collaborate with researchers who are interested 
    **Journal of Pathology Informatics**, 2023
 -->
 
-*(\*equal contribution)*
+*(\*equal contribution, #corresponding author)*
 
 <!-- --- -->
 
