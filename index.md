@@ -29,6 +29,14 @@ I'm always happy to connect and collaborate with researchers who are interested 
 <!-- --- -->
 
 ## Selected Publications
+- **A Generative Virtual Tissue Model Enables Computational Design of Therapeutic Perturbation Strategies**\
+    _**Yunrui Lu**, Willis Zhang, Yu-Jen Chen, Jiayi Yin, Lydia Chen, Kevin Fleisher, James Gornet, Rex Liu, Zitong Jerry Wang, Yan Poon, Yuning You, Matt Thomson_\
+    **bioRxiv**, 2026
+
+- **Spatial second-order features predict glioma malignant transformation**\
+    _Michal Polonsky, Jonathan J Fox, **Yunrui Lu**, Sheel Shah, Noa Hadas, Jina Yun, Brian A Williams, Barbara J Wold, Richard G Everson, Matt W Thomson, Long Cai_\
+    **bioRxiv**, 2026
+
 - **Integration of Elemental Imaging and Spatial Transcriptomic Profiling for Proof-of-Concept Metals-Based Pathway Analysis of Colon Tumor Microenvironment**\
     _**Yunrui Lu**, Serin Han, Aruesha Srivastava, Neha Shaik, Matthew Chan, Alos Diallo, Naina Kumar, Nishita Paruchuri, Hrishikesh Deosthali, Vismay Ravikumar, Kevin Cornell, Elijah Stommel, Tracy Punshon, Brian Jackson, Fred Kolling IV, Linda Vahdat, Louis Vaickus, Jonathan Marotti, Sunita Ho, Joshua Levy_\
     **Bioinformatics Advances**, 2025
@@ -37,6 +45,7 @@ I'm always happy to connect and collaborate with researchers who are interested 
    _Michael Y Fatemi\*, **Yunrui Lu\***, Alos B Diallo, Gokul Srinivasan, Zarif L Azher, Brock C Christensen, Lucas A Salas, Gregory J Tsongalis, Scott M Palisoul, Laurent Perreard, Fred W Kolling IV, Louis J Vaickus, Joshua J Levy_\
    **Briefings in Bioinformatics**, 2024
 
+<!-- Hidden publications: remove this line and the closing line below to show them again
 - **Feasibility of Inferring Spatial Transcriptomics from Single-Cell Histological Patterns for Studying Colon Cancer Tumor Heterogeneity**  
    _Michael Y Fatemi\*, **Yunrui Lu\***, Cyril Sharma, Eric Feng, Zarif L Azher, Alos B Diallo, Gokul Srinivasan, Grace M Rosner, Kelli B Pointer, Brock C Christensen, Lucas A Salas, Gregory J Tsongalis, Scott M Palisoul, Laurent Perreard, Fred W Kolling IV, Louis J Vaickus, Joshua J Levy_\
    **BIOSTEC** 2025
@@ -48,6 +57,7 @@ I'm always happy to connect and collaborate with researchers who are interested 
 - **Development of an interactive web dashboard to facilitate the reexamination of pathology reports for instances of underbilling of CPT codes**  
    _Jack Greenburg, **Yunrui Lu**, Shuyang Lu, Uhuru Kamau, Robert Hamilton, Jason Pettus, Sarah Preum, Louis Vaickus, Joshua Levy_\
    **Journal of Pathology Informatics**, 2023
+-->
 
 *(\*equal contribution)*
 
